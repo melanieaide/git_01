@@ -31,3 +31,42 @@ Eager eye and willing ear,
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
 
+<<<<<<< HEAD
+=======
+**In the Realm of Speed**
+
+Engines roar like thunder's call,  
+On tracks where champions rise and fall.  
+The lights go out, the tension builds,  
+A symphony of power, adrenaline thrilled.  
+
+Rubber meets asphalt, a dance divine,  
+Each curve and straight, a test of time.  
+Racing hearts, a nation's pride,  
+As tires grip and engines glide.  
+
+The smell of fuel, the sound of fate,  
+In pit stops quick, they navigate.  
+Strategy whispers, “Push or hold?”  
+In every lap, a story unfolds.  
+
+Heroes born beneath the sun,  
+In each fierce battle, a victory won.  
+Overtaking, daring, a hair's breadth apart,  
+Every move a masterstroke of art.  
+
+From Monaco's streets to Monza's speed,  
+In every corner, the racers heed.  
+With teamwork forged in fires of trust,  
+They chase the dreams, in speed they must.  
+
+From the roar of fans to the checkered flag,  
+In the heart of F1, legends brag.  
+A world united in passion and pride,  
+In the realm of speed, forever they ride.  
+
+With every race, the thrill ignites,  
+In the dance of destiny, they reach new heights.  
+Through trials faced and triumphs earned,  
+In the essence of racing, a legacy burned.  
+>>>>>>> verse4
