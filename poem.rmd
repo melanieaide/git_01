@@ -17,7 +17,7 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 A BOAT beneath a sunny sky,  
-Lingering onward dreamily  
+Lingering onward dreamily   
 In an evening of July --  
 Children three that nestle near,  
 Eager eye and willing ear,  
